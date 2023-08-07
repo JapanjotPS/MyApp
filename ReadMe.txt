@@ -1,1 +1,2 @@
-Updated Demo text
+To use the script, run RunMe.sh
+
